@@ -1,0 +1,117 @@
+---
+object: card
+id: 762d568d-a2d6-449b-85c2-a92755efe4c3
+oracle_id: 48a909b6-e6ee-4148-8b50-b35f11bc065f
+multiverse_ids:
+- 398596
+mtgo_id: 57916
+mtgo_foil_id: 57917
+tcgplayer_id: 100102
+cardmarket_id: 283441
+name: Mizzium Meddler
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/762d568d-a2d6-449b-85c2-a92755efe4c3
+scryfall_uri: https://scryfall.com/card/ori/64/mizzium-meddler?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/6/762d568d-a2d6-449b-85c2-a92755efe4c3.jpg?1562026207
+  normal: https://cards.scryfall.io/normal/front/7/6/762d568d-a2d6-449b-85c2-a92755efe4c3.jpg?1562026207
+  large: https://cards.scryfall.io/large/front/7/6/762d568d-a2d6-449b-85c2-a92755efe4c3.jpg?1562026207
+  png: https://cards.scryfall.io/png/front/7/6/762d568d-a2d6-449b-85c2-a92755efe4c3.png?1562026207
+  art_crop: https://cards.scryfall.io/art_crop/front/7/6/762d568d-a2d6-449b-85c2-a92755efe4c3.jpg?1562026207
+  border_crop: https://cards.scryfall.io/border_crop/front/7/6/762d568d-a2d6-449b-85c2-a92755efe4c3.jpg?1562026207
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Vedalken Wizard
+oracle_text: |-
+  Flash (You may cast this spell any time you could cast an instant.)
+  When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.
+power: '1'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set: ori
+set_name: Magic Origins
+set_type: core
+set_uri: https://api.scryfall.com/sets/0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ori?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/762d568d-a2d6-449b-85c2-a92755efe4c3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48a909b6-e6ee-4148-8b50-b35f11bc065f&unique=prints
+collector_number: '64'
+digital: false
+rarity: rare
+flavor_text: Energy surges in Izzet labs are opportunities for experimentation.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Johann Bodin
+artist_ids:
+- d92e2dd9-9ef6-43f6-81f8-df87f9066983
+illustration_id: 142450f7-9d49-45b7-ae48-8eff98841d5e
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11485
+penny_rank: 8721
+prices:
+  usd: '0.10'
+  usd_foil: '0.29'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.50'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398596
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mizzium+Meddler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mizzium+Meddler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mizzium+Meddler
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/100102?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mizzium+Meddler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57916?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

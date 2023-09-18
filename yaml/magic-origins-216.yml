@@ -1,0 +1,117 @@
+---
+object: card
+id: 5299a549-06cf-47e8-b6cd-7e44d9f1efb8
+oracle_id: de2c7724-647c-4ca2-be4d-f0e348a59262
+multiverse_ids:
+- 398521
+mtgo_id: 58094
+mtgo_foil_id: 58095
+tcgplayer_id: 100309
+cardmarket_id: 283544
+name: Reclusive Artificer
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/5299a549-06cf-47e8-b6cd-7e44d9f1efb8
+scryfall_uri: https://scryfall.com/card/ori/216/reclusive-artificer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/5299a549-06cf-47e8-b6cd-7e44d9f1efb8.jpg?1562020031
+  normal: https://cards.scryfall.io/normal/front/5/2/5299a549-06cf-47e8-b6cd-7e44d9f1efb8.jpg?1562020031
+  large: https://cards.scryfall.io/large/front/5/2/5299a549-06cf-47e8-b6cd-7e44d9f1efb8.jpg?1562020031
+  png: https://cards.scryfall.io/png/front/5/2/5299a549-06cf-47e8-b6cd-7e44d9f1efb8.png?1562020031
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/5299a549-06cf-47e8-b6cd-7e44d9f1efb8.jpg?1562020031
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/5299a549-06cf-47e8-b6cd-7e44d9f1efb8.jpg?1562020031
+mana_cost: "{2}{U}{R}"
+cmc: 4.0
+type_line: Creature — Human Artificer
+oracle_text: |-
+  Haste (This creature can attack and {T} as soon as it comes under your control.)
+  When Reclusive Artificer enters the battlefield, you may have it deal damage to target creature equal to the number of artifacts you control.
+power: '2'
+toughness: '3'
+colors:
+- R
+- U
+color_identity:
+- R
+- U
+keywords:
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set: ori
+set_name: Magic Origins
+set_type: core
+set_uri: https://api.scryfall.com/sets/0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ori?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5299a549-06cf-47e8-b6cd-7e44d9f1efb8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ade2c7724-647c-4ca2-be4d-f0e348a59262&unique=prints
+collector_number: '216'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cynthia Sheppard
+artist_ids:
+- 9dfbdd58-65e6-40cf-951a-80e141061939
+illustration_id: 7d9668dd-a7d8-410f-83b3-4fd843481c92
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19320
+penny_rank: 3017
+prices:
+  usd: '0.09'
+  usd_foil: '0.74'
+  usd_etched: 
+  eur: '0.06'
+  eur_foil: '0.30'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398521
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reclusive+Artificer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reclusive+Artificer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reclusive+Artificer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/100309?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reclusive+Artificer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58094?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

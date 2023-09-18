@@ -1,0 +1,117 @@
+---
+object: card
+id: 332769b1-1eb5-4c77-8317-27addc28650b
+oracle_id: 598a7410-35e8-4d62-9bf1-d44ee7717040
+multiverse_ids:
+- 398660
+mtgo_id: 58096
+mtgo_foil_id: 58097
+tcgplayer_id: 100036
+cardmarket_id: 283357
+name: Blazing Hellhound
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/332769b1-1eb5-4c77-8317-27addc28650b
+scryfall_uri: https://scryfall.com/card/ori/210/blazing-hellhound?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/3/332769b1-1eb5-4c77-8317-27addc28650b.jpg?1562013794
+  normal: https://cards.scryfall.io/normal/front/3/3/332769b1-1eb5-4c77-8317-27addc28650b.jpg?1562013794
+  large: https://cards.scryfall.io/large/front/3/3/332769b1-1eb5-4c77-8317-27addc28650b.jpg?1562013794
+  png: https://cards.scryfall.io/png/front/3/3/332769b1-1eb5-4c77-8317-27addc28650b.png?1562013794
+  art_crop: https://cards.scryfall.io/art_crop/front/3/3/332769b1-1eb5-4c77-8317-27addc28650b.jpg?1562013794
+  border_crop: https://cards.scryfall.io/border_crop/front/3/3/332769b1-1eb5-4c77-8317-27addc28650b.jpg?1562013794
+mana_cost: "{2}{B}{R}"
+cmc: 4.0
+type_line: Creature — Elemental Dog
+oracle_text: "{1}, Sacrifice another creature: Blazing Hellhound deals 1 damage to
+  any target."
+power: '4'
+toughness: '3'
+colors:
+- B
+- R
+color_identity:
+- B
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set: ori
+set_name: Magic Origins
+set_type: core
+set_uri: https://api.scryfall.com/sets/0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ori?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/332769b1-1eb5-4c77-8317-27addc28650b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A598a7410-35e8-4d62-9bf1-d44ee7717040&unique=prints
+collector_number: '210'
+digital: false
+rarity: uncommon
+flavor_text: It tears the flesh from your bones and then swallows the ash with its
+  fiery maw.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Velhagen
+artist_ids:
+- 9f85c6c1-5cf4-4092-bb65-006eaca188d4
+illustration_id: ee8d7e08-98b9-4d25-a71a-707791c94d2f
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18927
+penny_rank: 13512
+prices:
+  usd: '0.07'
+  usd_foil: '0.36'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.05'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398660
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blazing+Hellhound&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blazing+Hellhound&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blazing+Hellhound
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/100036?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blazing+Hellhound&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58096?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

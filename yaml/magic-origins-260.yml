@@ -1,0 +1,109 @@
+---
+object: card
+id: 03f845b1-3b8a-4387-aae3-fd497acf193c
+oracle_id: b2c6aa39-2d2a-459c-a555-fb48ba993373
+multiverse_ids:
+- 398477
+mtgo_id: 57728
+mtgo_foil_id: 57729
+tcgplayer_id: 100257
+cardmarket_id: 283481
+name: Island
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/03f845b1-3b8a-4387-aae3-fd497acf193c
+scryfall_uri: https://scryfall.com/card/ori/260/island?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/3/03f845b1-3b8a-4387-aae3-fd497acf193c.jpg?1562005105
+  normal: https://cards.scryfall.io/normal/front/0/3/03f845b1-3b8a-4387-aae3-fd497acf193c.jpg?1562005105
+  large: https://cards.scryfall.io/large/front/0/3/03f845b1-3b8a-4387-aae3-fd497acf193c.jpg?1562005105
+  png: https://cards.scryfall.io/png/front/0/3/03f845b1-3b8a-4387-aae3-fd497acf193c.png?1562005105
+  art_crop: https://cards.scryfall.io/art_crop/front/0/3/03f845b1-3b8a-4387-aae3-fd497acf193c.jpg?1562005105
+  border_crop: https://cards.scryfall.io/border_crop/front/0/3/03f845b1-3b8a-4387-aae3-fd497acf193c.jpg?1562005105
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Island
+oracle_text: "({T}: Add {U}.)"
+colors: []
+color_identity:
+- U
+keywords: []
+produced_mana:
+- U
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set: ori
+set_name: Magic Origins
+set_type: core
+set_uri: https://api.scryfall.com/sets/0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ori?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/03f845b1-3b8a-4387-aae3-fd497acf193c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints
+collector_number: '260'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Richard Wright
+artist_ids:
+- 7b1b0ce9-2c58-4321-a2a7-cdc94feae082
+illustration_id: 55068432-c289-4467-b7b4-f40639340297
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.04'
+  usd_foil: '0.44'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.25'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398477
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Island&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Island&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Island
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/100257?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Island&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57728?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

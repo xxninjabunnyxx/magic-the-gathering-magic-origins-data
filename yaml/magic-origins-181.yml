@@ -1,0 +1,114 @@
+---
+object: card
+id: bf335eac-e57b-44ec-afe2-8aed567469e7
+oracle_id: 241ec1fc-cc50-468e-8ee3-f95a82a3e07b
+multiverse_ids:
+- 398676
+mtgo_id: 58060
+mtgo_foil_id: 58061
+tcgplayer_id: 99745
+cardmarket_id: 283171
+name: Hitchclaw Recluse
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/bf335eac-e57b-44ec-afe2-8aed567469e7
+scryfall_uri: https://scryfall.com/card/ori/181/hitchclaw-recluse?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/f/bf335eac-e57b-44ec-afe2-8aed567469e7.jpg?1562039878
+  normal: https://cards.scryfall.io/normal/front/b/f/bf335eac-e57b-44ec-afe2-8aed567469e7.jpg?1562039878
+  large: https://cards.scryfall.io/large/front/b/f/bf335eac-e57b-44ec-afe2-8aed567469e7.jpg?1562039878
+  png: https://cards.scryfall.io/png/front/b/f/bf335eac-e57b-44ec-afe2-8aed567469e7.png?1562039878
+  art_crop: https://cards.scryfall.io/art_crop/front/b/f/bf335eac-e57b-44ec-afe2-8aed567469e7.jpg?1562039878
+  border_crop: https://cards.scryfall.io/border_crop/front/b/f/bf335eac-e57b-44ec-afe2-8aed567469e7.jpg?1562039878
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Spider
+oracle_text: Reach
+power: '1'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set: ori
+set_name: Magic Origins
+set_type: core
+set_uri: https://api.scryfall.com/sets/0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ori?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bf335eac-e57b-44ec-afe2-8aed567469e7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A241ec1fc-cc50-468e-8ee3-f95a82a3e07b&unique=prints
+collector_number: '181'
+digital: false
+rarity: common
+flavor_text: Not all spiders need webs to catch their prey.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Simpson
+artist_ids:
+- bb21cc10-54bf-4d10-b90c-72ba55dd3d37
+illustration_id: f396e852-b7fd-4a90-b1a0-ad669a3ab0a9
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15248
+penny_rank: 12709
+prices:
+  usd: '0.06'
+  usd_foil: '0.29'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.20'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398676
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hitchclaw+Recluse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hitchclaw+Recluse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hitchclaw+Recluse
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/99745?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hitchclaw+Recluse&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58060?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

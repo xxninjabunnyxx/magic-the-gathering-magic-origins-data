@@ -1,0 +1,113 @@
+---
+object: card
+id: b1d0eb3b-00b9-42ca-9f7d-5543bffc3480
+oracle_id: b9d7341e-10e7-43f9-bee2-e8053b287acd
+multiverse_ids:
+- 398679
+mtgo_id: 58062
+mtgo_foil_id: 58063
+tcgplayer_id: 100246
+cardmarket_id: 283632
+name: The Great Aurora
+lang: en
+released_at: '2015-07-17'
+uri: https://api.scryfall.com/cards/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480
+scryfall_uri: https://scryfall.com/card/ori/179/the-great-aurora?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/1/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480.jpg?1562037032
+  normal: https://cards.scryfall.io/normal/front/b/1/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480.jpg?1562037032
+  large: https://cards.scryfall.io/large/front/b/1/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480.jpg?1562037032
+  png: https://cards.scryfall.io/png/front/b/1/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480.png?1562037032
+  art_crop: https://cards.scryfall.io/art_crop/front/b/1/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480.jpg?1562037032
+  border_crop: https://cards.scryfall.io/border_crop/front/b/1/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480.jpg?1562037032
+mana_cost: "{6}{G}{G}{G}"
+cmc: 9.0
+type_line: Sorcery
+oracle_text: Each player shuffles all cards from their hand and all permanents they
+  own into their library, then draws that many cards. Each player may put any number
+  of land cards from their hand onto the battlefield. Exile The Great Aurora.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set: ori
+set_name: Magic Origins
+set_type: core
+set_uri: https://api.scryfall.com/sets/0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ori?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b1d0eb3b-00b9-42ca-9f7d-5543bffc3480/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9d7341e-10e7-43f9-bee2-e8053b287acd&unique=prints
+collector_number: '179'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sam Burley
+artist_ids:
+- f89f4b78-cefb-41f7-b7cb-4f4d28de0c4f
+illustration_id: 673241ba-0a32-4109-9ae7-72352f855717
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7510
+penny_rank: 5865
+prices:
+  usd: '0.68'
+  usd_foil: '8.18'
+  usd_etched: 
+  eur: '1.22'
+  eur_foil: '2.50'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398679
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=The+Great+Aurora&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=The+Great+Aurora&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=The+Great+Aurora
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/100246?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Great+Aurora&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/58062?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
